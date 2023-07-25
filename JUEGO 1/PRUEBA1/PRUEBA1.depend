@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1689994614 source:d:\desarrollo\juego 1\prueba1\main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	"clases.h"
+
+1689994735 source:d:\desarrollo\juego 1\prueba1\clases.cpp
+	"clases.h"
+
+1689993381 d:\desarrollo\juego 1\prueba1\clases.h
+	<iostream>
+	<allegro5/allegro.h>
+
